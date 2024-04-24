@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+}
+.tittle{
+    display: flex;
+    justify-content: space-around;
+}
